@@ -18,10 +18,10 @@ o="\033[0m"
 clear
 
 printf "\n      ${p}─╤╦︻${h}=${p}(${m}◣${k}_${m}◢${p})${h}=${p}︻╦╤─   ${m}[ ${pu}RAKUN BOT SHOP ${m}]   \n"		
-printf "         ${h}   __${b}H${h}__     ${m}[ ${pu}NANDOOFC ${m}]\n"
-printf "${p}             [${m}'${p}] ${p}╦═╗╦╔═╗╔╗╔╔═╗\n"
-printf "${p}             [${m}'${p}] ${p}╠╦╝║╠═╣║║║╠═╣\n"
-printf "${p}             [${m}'${p}] ${p}╩╚═╩╩ ╩╝╚╝╩ ╩\n"
+printf "         ${h}   __${b}H${h}__     ${m}[ ${pu}https://github.com/winorohadimukti ${m}]\n"
+printf "${p}             [${m}'${p}] ${p}╦═╗╔═╗╦╔═╦ ╦╔╗╔  ╔╗ ╔═╗╔╦╗\n"
+printf "${p}             [${m}'${p}] ${p}╠╦╝╠═╣╠╩╗║ ║║║║  ╠╩╗║ ║ ║ \n"
+printf "${p}             [${m}'${p}] ${p}╩╚═╩ ╩╩ ╩╚═╝╝╚╝  ╚═╝╚═╝ ╩ \n"
 printf "${h}              V     ${m}[ ${pu}BY : RWIN RNANDO ${m}]\n"
 printf "${pu}      ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n\n"
 
